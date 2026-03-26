@@ -10,4 +10,4 @@ Mixer.Live is a hybrid content platform allowing for both directly streaming vid
 - Never add ads, (outside of sponsored streams).
 - Allow our content creators a direct way to accept donations
 
-[Website](Mixer.Live) - [Discord](discord.Mixer.Live) - [Status]()
+[Website](https://Mixer.Live) - [Discord](https://discord.Mixer.Live) - [Status]()
